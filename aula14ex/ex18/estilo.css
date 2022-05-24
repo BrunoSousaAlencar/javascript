@@ -8,12 +8,6 @@ header{
     text-align: center;
 }
 
-select#flist{
-    width: 150px;
-    margin-top: 20px;
-
-}
-
 section{
     background-color: white;
     border-radius: 10px;
