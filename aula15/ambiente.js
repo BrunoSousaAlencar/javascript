@@ -9,4 +9,4 @@ if(pos == -1){
     console.log(`Não encontrado`)
 } else{
     console.log(`O valor 9 está na posição: ${pos}`) 
-}
+} 
